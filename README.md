@@ -5,4 +5,5 @@
 </h1>
 <p align="center">
   Русская версия приложения, использована последняя доступная версия (больше не обновляется)
+  <a href="https://github.com/Jessecar96/SteamDesktopAuthenticator">Оригинал</a>
 </p>
